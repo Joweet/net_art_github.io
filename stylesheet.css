@@ -1,0 +1,16 @@
+body
+.parent {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+.giphy.gif {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+.giphy copy.gif {
+  position: absolute;
+  top: 30px;
+  left: 70px;
+}

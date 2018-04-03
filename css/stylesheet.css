@@ -1,0 +1,25 @@
+body
+}
+.parent {
+  position: relative;
+  top: 0px;
+  left: 0px;
+}
+.image1 {
+  position: absolute;
+  top: 50px;
+  left: 50px;
+}
+.image2 {
+  position: relative;
+  top: 150px;
+  left: 280px;
+}
+body 
+
+           h1{color:red;}
+            p{color:black;}
+                .city {
+    background-color: tomato;
+    color: white;
+    padding: 10px;
